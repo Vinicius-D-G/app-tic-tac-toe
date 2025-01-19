@@ -1,5 +1,4 @@
 # app-tic-tac-toe
-O Ninja Mode do seu código adiciona uma camada divertida e inesperada ao jogo da velha clássico. Aqui está o que ele faz:
 
 Troca dos símbolos tradicionais:
 
