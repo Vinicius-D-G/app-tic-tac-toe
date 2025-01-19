@@ -1,5 +1,22 @@
-# myapp
+# app-tic-tac-toe
+O Ninja Mode do seu código adiciona uma camada divertida e inesperada ao jogo da velha clássico. Aqui está o que ele faz:
 
+Troca dos símbolos tradicionais:
+
+Em vez de usar os ícones "🤠" e "🎃" para os jogadores, o Ninja Mode ativa o uso de emojis aleatórios. Esses emojis vêm de uma lista que inclui itens como "💔", "🐢", "🍞", e outros.
+Elementos de surpresa:
+
+Cada jogada em Ninja Mode é imprevisível porque o emoji exibido é escolhido aleatoriamente, tornando o jogo mais engraçado e menos previsível.
+Regras e ativação:
+
+O Ninja Mode só pode ser ativado se nenhum movimento tiver sido feito ainda, garantindo que ele seja ativado no início de uma nova partida.
+Botão dedicado:
+
+O botão "Ninja Mode" permite ao jogador alternar facilmente entre o modo clássico e o modo com emojis aleatórios.
+Exemplo de Jogada no Ninja Mode:
+Jogador 1 pode começar com um emoji como "🎰".
+Jogador 2 responde com "☢️".
+No final, o tabuleiro estará cheio de emojis aleatórios, criando uma aparência única a cada partida.
 A new Flutter project.
 
 ## Getting Started
